@@ -1,6 +1,7 @@
 name: "my-cv"
+output_dir: "."
 navbar:
   title: "My CV"
   left:
-    -text: Home
-     href: index.html
+    - text: Home
+      href: index.html
