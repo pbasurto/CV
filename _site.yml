@@ -1,0 +1,6 @@
+name: "my-cv"
+navbar:
+  title: "My CV"
+  left:
+    -text: Home
+     href: index.html
